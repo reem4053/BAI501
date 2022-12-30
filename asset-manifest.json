@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BAI501/static/css/main.95910563.css",
+    "main.js": "/BAI501/static/js/main.4af4d5f2.js",
+    "index.html": "/BAI501/index.html",
+    "main.95910563.css.map": "/BAI501/static/css/main.95910563.css.map",
+    "main.4af4d5f2.js.map": "/BAI501/static/js/main.4af4d5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95910563.css",
+    "static/js/main.4af4d5f2.js"
+  ]
+}
