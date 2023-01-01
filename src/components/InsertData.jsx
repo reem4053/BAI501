@@ -15,7 +15,7 @@ const InsertData = ({ board, setBoard, boardF, setBoardF, clickHandler }) => {
       <nav className="headS">
         <div className="names">
           <div className="col1">
-            <h4 className="name">ريم حوري Reem_12334</h4>
+            <h4 className="name">ريم حوري Reem_125334</h4>
             <h4 className="name">محمود الحسن mahmoud_112673</h4>
           </div>
           <div className="col2">
